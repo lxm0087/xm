@@ -1,0 +1,7 @@
+ .layui-header{background: #b4b5b7 !important;height: 80px !important;}
+.user-info img{ width: 60px;  height: 60px;  float: left;border-radius: 100px;}
+.user-info{width: 180px;  height: 60px;  padding: 10px;  background: #1ca296;}
+.layui-nav{margin-top: 10px;}
+.layui-layout-admin .layui-body{top:80px;}
+.layui-layout-admin .layui-side{top:70px ;}
+ .layui-introduce{margin-left: 10px;}
